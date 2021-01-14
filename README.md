@@ -1,4 +1,4 @@
-### Hi there 👋
+### helloWorld.me 👋
 ![](https://komarev.com/ghpvc/?username=sejalrastogi&color=47ccb3) 
 <!--
 **sejalrastogi/sejalrastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="hi.gif" width="50px" align="centre">  
+<img src="hi.gif" width="50px">
 
 ![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=sejalrastogi&show_icons=true&theme=prussian)
