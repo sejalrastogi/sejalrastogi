@@ -1,4 +1,4 @@
-### helloWorld.me 👋
+### helloWorld.me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ![](https://komarev.com/ghpvc/?username=sejalrastogi&color=47ccb3) 
 <!--
 **sejalrastogi/sejalrastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
