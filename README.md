@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="hi.gif" width="50px">
 
-![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=sejalrastogi&show_icons=true&theme=prussian)
+![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=sejalrastogi&show_icons=true&theme=prussian) <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170">
