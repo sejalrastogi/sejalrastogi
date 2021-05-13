@@ -24,7 +24,7 @@ Here are some ideas to get you started:
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Facebook -->
-        <a href="https://www.facebook.com/" target="_blank"><img alt="Facebook"
+        <a href="#" target="_blank"><img alt="Facebook"
                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
         <!-- Instagram -->
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/sejalsumi/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/sejal-sumi-8aa7821b0/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="https://www.youtube.com/c/GeeksWithRawe/videos" target="_blank"><img alt="Youtube"
+        <a href="https://www.youtube.com/channel/UCd92D4k_1I-HpErxbJy20jA/videos" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
         </a>
