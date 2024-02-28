@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=sejalrastogi&show_icons=true&theme=prussian) <img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170">
+<!--![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=sejalrastogi&show_icons=true&theme=prussian) -->
+
+<img src="https://github.com/Amchuz/Amchuz/blob/master/animegirl.gif" width="200" height="170">
         <!-- Social Links -->
         <p>Find me on  <img src="hi.gif" width="30px"></p>
         <!-- Gmail -->
